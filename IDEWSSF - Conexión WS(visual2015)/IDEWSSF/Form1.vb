@@ -77,9 +77,9 @@ Public Class Form1
         '/*Login*/
         'Instrucción para omitir el error de TLS1.0
         System.Net.ServicePointManager.SecurityProtocol = Net.SecurityProtocolType.Tls11
-        usuario = My.Settings.usuario '"conexion@breinit.mx"
-        pass = My.Settings.password '"1u5a2151ya"
-        token = My.Settings.token '"XkWQfzAjGN6rn1P9W946UNjkO"
+        usuario = My.Settings.usuario '"@.mx"
+        pass = My.Settings.password '""
+        token = My.Settings.token '""
         pass = pass + token
 
         Try
