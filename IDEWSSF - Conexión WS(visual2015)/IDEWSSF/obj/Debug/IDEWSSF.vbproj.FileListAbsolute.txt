@@ -1,0 +1,21 @@
+C:\Users\Admin\Desktop\IDEWSSF\IDEWSSF\bin\Debug\IDEWSSF.exe.config
+C:\Users\Admin\Desktop\IDEWSSF\IDEWSSF\bin\Debug\IDEWSSF.exe
+C:\Users\Admin\Desktop\IDEWSSF\IDEWSSF\bin\Debug\IDEWSSF.pdb
+C:\Users\Admin\Desktop\IDEWSSF\IDEWSSF\bin\Debug\IDEWSSF.xml
+C:\Users\Admin\Desktop\IDEWSSF\IDEWSSF\obj\Debug\IDEWSSF.Form1.resources
+C:\Users\Admin\Desktop\IDEWSSF\IDEWSSF\obj\Debug\IDEWSSF.Resources.resources
+C:\Users\Admin\Desktop\IDEWSSF\IDEWSSF\obj\Debug\IDEWSSF.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\IDEWSSF\IDEWSSF\obj\Debug\IDEWSSF.exe
+C:\Users\Admin\Desktop\IDEWSSF\IDEWSSF\obj\Debug\IDEWSSF.xml
+C:\Users\Admin\Desktop\IDEWSSF\IDEWSSF\obj\Debug\IDEWSSF.pdb
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\bin\Debug\IDEWSSF.exe.config
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\obj\Debug\IDEWSSF.exe
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\obj\Debug\IDEWSSF.xml
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\obj\Debug\IDEWSSF.pdb
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\bin\Debug\IDEWSSF.exe
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\bin\Debug\IDEWSSF.pdb
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\bin\Debug\IDEWSSF.xml
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\obj\Debug\IDEWSSF.Form1.resources
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\obj\Debug\IDEWSSF.Resources.resources
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\obj\Debug\IDEWSSF.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\IDEWSSF - Conexión WS(visual2015)\IDEWSSF\obj\Debug\IDEWSSF.vbprojResolveAssemblyReference.cache
